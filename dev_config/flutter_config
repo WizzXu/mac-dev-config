@@ -1,0 +1,9 @@
+
+# Flutter Enviroment.
+export FLUTTER_HOME=/Users/xuweiyu/flutter/sdk/
+export PATH=$FLUTTER_HOME/bin:$PATH
+
+# Flutter proxy for CN.
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_GIT_URL=https://gitee.com/mirrors/Flutter.git

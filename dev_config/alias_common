@@ -1,0 +1,13 @@
+alias activity='adb shell dumpsys activity top | grep ACTIVITY'
+
+
+alias gpull="git pull"
+alias gco="git commit"
+alias gpush="git push"
+alias gbr="git branch"
+alias gch="git checkout"
+alias gst="git status"
+alias gfe="git fetch origin "
+
+
+alias rmfl="/Users/xuweiyu/.myConfig/rmflutterlock.sh"

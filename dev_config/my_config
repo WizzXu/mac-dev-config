@@ -1,0 +1,5 @@
+ANDROID_HOME=/Users/xuweiyu/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+source /Users/xuweiyu/.myConfig/alias_common
