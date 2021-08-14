@@ -1,5 +1,7 @@
-ANDROID_HOME=/Users/xuweiyu/Library/Android/sdk
+ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 
-source /Users/xuweiyu/.myConfig/alias_common
+source $HOME/.myConfig/alias_common
+
+source $HOME/.myConfig/flutter_config

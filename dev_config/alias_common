@@ -15,5 +15,5 @@ alias gemail="git config user.email"
 alias gname_my="git config user.name xuweiyu"
 alias gemail_my="git config user.email wizz.xu@outlook.com"
 
-alias rmfl="/Users/xuweiyu/.myConfig/rmflutterlock.sh"
-alias ofh="/Users/xuweiyu/.myConfig/openflutterhome.sh"
+alias rmfl="$HOME/.myConfig/rmflutterlock.sh"
+alias ofh="$HOME/.myConfig/openflutterhome.sh"
