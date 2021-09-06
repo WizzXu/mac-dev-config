@@ -19,3 +19,5 @@ alias rmfl="$HOME/.myConfig/rmflutterlock.sh"
 alias ofh="$HOME/.myConfig/openflutterhome.sh"
 
 alias flutter="fvm flutter"
+
+alias fb="flutter pub run build_runner watch --delete-conflicting-outputs"
